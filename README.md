@@ -2,7 +2,7 @@
 
 Full Stack Developer · TypeScript · React · Node.js · PostgreSQL
 
-MSc Computer Science @ University of Liverpool (First Class Distinction)
+MSc Advanced Computer Science @ University of Liverpool
 Currently open to graduate Software Engineer / Frontend / Full Stack roles in the UK.
 
 ## Projects
