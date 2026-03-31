@@ -8,15 +8,15 @@ Currently open to graduate Software Engineer / Frontend / Full Stack roles in th
 ## Projects
 
 ### 🔧 [ApplyFlow](https://github.com/Pranav-Arumugam/applyFlow)
-Full-stack job application tracker — React, TypeScript, Node.js, MongoDB, Docker, Nginx, Render.
+Full-stack job application tracker - React, TypeScript, Node.js, MongoDB, Docker, Nginx, Render.
 Full TypeScript migration (strict: true) · GitHub Actions CI/CD · Vitest + React Testing Library
 
 ### 🌱 [Altiora](https://github.com/Pranav-Arumugam/Altiora)
-Personal development platform — Next.js, TypeScript, PostgreSQL, Supabase, Groq LLM API, Vercel.
+Personal development platform - Next.js, TypeScript, PostgreSQL, Supabase, Groq LLM API, Vercel.
 Live AI suggestion engine · Row Level Security · Interactive dashboards
 
 ### 🔌 [ApplyBuddy](https://github.com/Pranav-Arumugam/ApplyBuddy) *(In Progress)*
-Chrome extension for job applications — TypeScript, React, Manifest V3, Node.js.
+Chrome extension for job applications - TypeScript, React, Manifest V3, Node.js.
 Cross-site autofill · Secure storage · ApplyFlow backend integration
 
 ## Tech Stack
